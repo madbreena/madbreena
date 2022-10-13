@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @madbreena
+- 👋 Hi, I’m @madbreena aka Gal aka Galatea
 - 👀 I’m interested in testing, cooking, gaming, writing and traveling
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Cypress and Cucumber related issues
